@@ -8,11 +8,6 @@ A hackathon project to monitor and visualize bloom stages of **paddy** and **bla
 - Interactive Streamlit dashboard with map-based view
 - Export insights as CSV
 
-## 👨‍👩‍👧‍👦 Team
-- Member 1: Data & Preprocessing
-- Member 2: ML Modeling
-- Member 3: Dashboard & Visualization
-
 ## 📂 Structure
 - `data/` → raw & processed data
 - `src/` → code (preprocessing, ml, dashboard)
